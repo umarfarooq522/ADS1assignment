@@ -1,0 +1,14 @@
+Country Name,Country Code,Series Name,Series Code,1990 [YR1990],1995 [YR1995],2000 [YR2000],2005 [YR2005],2010 [YR2010],2015 [YR2015]
+France,FRA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,6.1172082094775,5.91583366228933,6.1255079006772,6.02506938598914,5.34819840895475,4.67780722830743
+France,FRA,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,50390,47310,48120,44430,43900,43010
+Portugal,PRT,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.11390395361496,5.05576602684812,5.99228486035527,6.23326137717306,4.81788677178018,4.81266969600543
+Portugal,PRT,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,5260,4980,4980,4660,4450,4750
+Germany,DEU,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,12.0266092332951,10.7086296660041,10.0993160227641,9.7294243784419,9.4533997219536,9.08729090938286
+Germany,DEU,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,52060,41150,37960,34830,34200,34260
+Japan,JPN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,8.83177570093458,9.33283919918388,9.32341556096907,9.49198928012225,9.03006153251152,9.2766294225014
+Japan,JPN,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,19000,19240,16900,16220,15800,14770
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Data from database: World Development Indicators,,,,,,,,,
+Last Updated: 09/16/2022,,,,,,,,,
